@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arpitmittal2206
-- 👀 I’m interested in ...Hacking
+- 👀 I’m interested in Programming...with...python,c++,html,css,js...
 - 🌱 I’m currently learning ...B.tech
 - 📫 How to reach me ...7310684523
 
